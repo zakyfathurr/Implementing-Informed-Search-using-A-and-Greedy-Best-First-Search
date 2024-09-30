@@ -1,0 +1,12 @@
+Tangerang, 685
+Jakarta, 660
+Bandung, 560
+Tegal, 400
+Semarang, 260
+Yogyakarta, 265
+Solo, 215
+Kediri, 100
+Mojokerto, 40
+Surabaya, 0
+Malang, 80
+Madura, 60

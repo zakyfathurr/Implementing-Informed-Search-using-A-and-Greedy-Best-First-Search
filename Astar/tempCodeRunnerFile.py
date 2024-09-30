@@ -1,0 +1,1 @@
+print("Total Jarak yang ditempuh \t\t: " + str(distance[end]))
