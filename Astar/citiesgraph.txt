@@ -1,0 +1,15 @@
+Bandung, Jakarta, 150
+Bandung, Yogyakarta, 360
+Bandung, Tegal, 220
+Tangerang, Jakarta, 33
+Jakarta, Tegal, 300
+Tegal, Semarang, 160
+Semarang, Solo, 100
+Semarang, Surabaya, 350
+Yogyakarta, Solo, 60
+Solo, Kediri, 180
+Kediri, Mojokerto, 80
+Kediri, Malang, 100
+Mojokerto, Surabaya, 50
+Malang, Surabaya, 90
+Surabaya, Madura, 80

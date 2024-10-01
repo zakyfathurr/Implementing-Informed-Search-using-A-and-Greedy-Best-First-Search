@@ -3,7 +3,7 @@ Jakarta, 660
 Bandung, 560
 Tegal, 400
 Semarang, 260
-Yogyakarta, 265
+Yogyakarta, 270
 Solo, 215
 Kediri, 100
 Mojokerto, 40
