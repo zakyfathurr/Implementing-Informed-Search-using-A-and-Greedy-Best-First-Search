@@ -5,7 +5,7 @@ Bandung,Tegal, 220
 Bandung,Yogyakarta, 360
 Tegal,Semarang, 160
 Semarang,Solo, 100
-Semarang,Surabaya, 300
+Semarang,Surabaya, 310
 Yogyakarta,Solo, 60
 Solo,Kediri, 180
 Kediri,Mojokerto, 80
